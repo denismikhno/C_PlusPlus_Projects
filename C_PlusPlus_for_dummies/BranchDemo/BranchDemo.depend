@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1720440012 source:c:\users\user\documents\c++projects\branchdemo\main.cpp
-	<cstdio>
-	<cstdlib>
-	<iostream>
-	<windows.h>
-
