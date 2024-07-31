@@ -21,5 +21,14 @@ int main()
         cout << "Позиция символа " << phrase[i] << " = " << i << endl;
     }
 
+    phrase.erase(4, 5);
+    cout << phrase << endl;
+
+    phrase.erase(4);
+    cout << phrase << endl;
+
+    phrase.erase();
+    cout << phrase << endl;
+
     return 0;
 }
